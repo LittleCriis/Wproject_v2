@@ -13,7 +13,7 @@ Este proyecto analiza la **brecha de género en el sector tecnológico español*
 Wproject_v2/
 │
 ├── data/
-│   └── datos_modelo_genero.csv           # Dataset real INE (preparado para ML)
+│   └── datos_genero.csv           # Dataset real INE (preparado para ML)
 │   └── datos_tecnologicos_genero.csv     # Dataset primer proyecto
 ├── src/
 │   ├── modelo_genero.py                  # Entrenamiento del modelo
